@@ -26,10 +26,4 @@
 #### Jquery AJAX [API Requests]
 
 
-### Live Link 
 
-https://zedd-weather.vercel.app
-
-### Please Support By Starring This Project. Follow Me For More Cool Open Source Projects.
-
-https://github.com/adedoyin-emmanuel/
